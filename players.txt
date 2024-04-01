@@ -1,1 +1,0 @@
-{'arun': {'password': 'arun25', 'highscore': 30}, 'rahul': {'password': 'rahul99', 'highscore': 10}, 'ajith': {'password': 'ajith67', 'highscore': 10}, 'kiran': {'password': 'kir44', 'highscore': 15}}
